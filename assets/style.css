@@ -1,0 +1,50 @@
+h3{
+    text-align: center;
+    color: aqua;
+    font-size: 42px;
+}
+img{
+    border-radius: 6px;
+    width: 350px;
+    height: auto;
+    float: center;
+    margin: 10px;
+    margin-right: 44px ;
+    margin-left: 40px;
+}
+
+span{
+    color:red;
+}
+p{
+    color:blue;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(72, 255, 0);
+    border-radius: 10px;
+
+}
+button{
+    display: inline-block;
+    cursor: pointer;
+    padding: 12px 80px;
+    background-color: #835dca;
+    box-shadow: 0px 5px #c8bebe;
+    font-size: 25px;
+    color: #fff;
+    font-size: 20px;
+    margin:0px 20px;
+    margin-left: 110px;
+    margin-right: 110px;
+    padding-top: 5px;
+    margin-bottom: 50px;
+
+}
+.button:active{
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+ 
+  }
+
+
